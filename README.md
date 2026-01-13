@@ -76,7 +76,6 @@ You should see the chat interface.
 2. Explain the Higgs boson resonance using the Breit–Wigner formula and describe the physical meaning of its decay width Γ.?
 3. Compare the Higgs boson decay channels analyzed by ATLAS and CMS and highlight the differences in statistical and systematic uncertainties.?
 4. Within the Standard Model, why does the Higgs boson have a finite decay width and how does it relate to its interactions?
-5. What is the physical meaning of the Breit-Wigner width (\Gamma)?
 
 ---
 
