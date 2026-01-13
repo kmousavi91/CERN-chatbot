@@ -1,0 +1,10 @@
+faiss-cpu
+gradio==5.25.2
+sentence-transformers
+torch
+transformers
+matplotlib
+numpy
+scipy
+python-dotenv
+groq
